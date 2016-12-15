@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Directory '/home/gohr/public_html/dw-2014-01-13/lib/plugins/struct'" />
+    <option name="defaultScopeName" value="Directory '/home/gohr/public_html/dw-2014-01-13/lib/plugins/struct'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '/home/gohr/public_html/dw-2014-01-13/lib/plugins/struct'" />
+  </component>
+</application>

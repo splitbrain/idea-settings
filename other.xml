@@ -1,0 +1,100 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Visibility issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BashSupport</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="DownloadedDatabaseDrivers">
+    <driver class="com.mysql.jdbc.Driver">
+      <file url="file://$USER_HOME$/.IntelliJIdea12/config/jdbc-drivers/mysql-connector-license.txt" />
+      <file url="jar://$USER_HOME$/.IntelliJIdea12/config/jdbc-drivers/mysql-connector-java-5.1.26-bin.jar!/" />
+    </driver>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/devel/topmeteo/env/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/public_html/social-hub/env/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/devel/topmeteo/env/bin/python2.7" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="SelectProjectTemplateSettings">
+    <option name="EXPERT_MODE" value="true" />
+    <option name="LAST_TEMPLATE" value="Python/Python Module" />
+  </component>
+  <component name="VFSTestFrameworkListener">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/devel/tonwelt/core-vms/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/public_html/social-hub/env/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <resource url="http://www.w3.org/2000/09/xmldsig#" location="$USER_HOME$/.IntelliJIdea13/system/extResources/3ddbaac8_xmldsig#.xml" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+</application>
