@@ -327,6 +327,31 @@
         <root url="file://$USER_HOME$/.IntelliJIdea14/system/python_stubs/-300767130" />
       </SOURCES>
     </library>
+    <library name="Python 3.5.2 virtualenv at ~/projects/brother/env interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/projects/brother/env/lib/python3.5" />
+        <root url="file://$USER_HOME$/projects/brother/env/lib/python3.5/plat-linux" />
+        <root url="file://$USER_HOME$/projects/brother/env/lib/python3.5/lib-dynload" />
+        <root url="file:///usr/lib64/python3.5" />
+        <root url="file:///usr/lib/python3.5" />
+        <root url="file:///usr/lib/python3.5/plat-linux" />
+        <root url="file://$USER_HOME$/projects/brother/env/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.3/system/python_stubs/6562565" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/projects/brother/env/lib/python3.5" />
+        <root url="file://$USER_HOME$/projects/brother/env/lib/python3.5/plat-linux" />
+        <root url="file://$USER_HOME$/projects/brother/env/lib/python3.5/lib-dynload" />
+        <root url="file:///usr/lib64/python3.5" />
+        <root url="file:///usr/lib/python3.5" />
+        <root url="file:///usr/lib/python3.5/plat-linux" />
+        <root url="file://$USER_HOME$/projects/brother/env/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.3/system/python_stubs/6562565" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
     <library name="sass-stdlib">
       <CLASSES />
       <JAVADOC />
