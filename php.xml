@@ -302,6 +302,7 @@
             <extension name="posix" />
             <extension name="readline" />
             <extension name="session" />
+            <extension name="sockets" />
             <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="tokenizer" />
