@@ -4,6 +4,7 @@
     <option name="FONT_SCALE" value="1.0833334" />
   </component>
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="IS_VIRTUAL_SPACE" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
