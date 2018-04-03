@@ -4,6 +4,6 @@
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
   </component>
   <component name="Go">
-    <option name="formatOnSave" value="GOFMT" />
+    <option name="detectGoPackageFromClipboard" value="false" />
   </component>
 </application>
