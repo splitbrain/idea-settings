@@ -4,9 +4,11 @@
     <property name="created">2016-12-15T16:33:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2017-12-20T20:11:08</property>
+    <property name="modified">2018-06-12T09:55:20</property>
     <property name="originalScheme">Default</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
